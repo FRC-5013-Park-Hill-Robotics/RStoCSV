@@ -10,12 +10,19 @@ Make sure you have:
 * [Python](https://www.python.org/)
 * [PIP](https://pypi.org/project/pip/)
 
+## Python
+Download the latest stable version of Python for windows. 
+In installation, it will ask you if you want to install PIP (YES)
+as well as setting up your environment (YES)
+Otherwise, just install the defaults.
+
+1. Enter `pip install -r requirements.txt` to install the necessary dependencies
+
+## GIT 
 1. In your terminal of choice, navigate to where you want the folder to be installed. [Click here if that was gibberish](https://www.davidbaumgold.com/tutorials/command-line/).
 2. Enter the following command:
-`git clone https://github.com/will-hou/RStoCSV.git`
-3. Enter `pip install -r requirements.txt` to install the necessary dependencies
-4. You're good to go! RStoCSV is installed locally on your computer!
-
+`git clone https://github.com/FRC-5013-Park-Hill-Robotics/RStoCSV.git`
+3. You're good to go! RStoCSV is installed locally on your computer!
 
 ## Usage
 1. Make sure you're in the RStoCSV directory.

@@ -1,0 +1,26 @@
+Team Number,Team Nickname,Name of Scout,Timestamp,Device,Match Number,Team #,Event Name,AutoStarting Position,AutoSuccessful move from line,AutoUpper Hub Successful,AutoLower Hub Successful,AutoUpper Hub Missed,AutoLower Hub Missed,AutoUpper Hub Bounced,AutoLower Hub Bounced,TeleOpUpper Hub Successful,TeleOpLower Hub Successful,TeleOpUpper Hub Missed,TeleOpLower Hub Missed,TeleOpUpper Hub Bounced,TeleOpLower Hub Bounced,TeleOpPlayed Defense,TeleOpTime Defending,TeleOpGot Defended,TeleOpTime Being Defended ,TeleOpTime Spent Climbing,TeleOpEndgame hang,Post GameRobot Broke,Post GameNotes (Auto),Post GameNotes (TeleOp),Post GameNotes (Endgame),Post GameNotes (Driver),Post GameNotes (Robot)
+935,RaileRobotics,Rapid React 1,1643481035129,Blue3,1,935,Heartland Regional,Tarmac 2,True,0,1,0,0,0,0,0,2,0,1,0,1,False,[],True,[9202],[],0,False,,,,Slow with actions,
+935,RaileRobotics,Rapid React 2,1643485408633,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+935,RaileRobotics,Rapid React 2,1643485613156,Blue3,4,935,Heartland Regional,Tarmac 1,True,0,1,0,0,0,0,0,3,0,0,0,1,False,[],True,[19978],[20811],4,False,,"Scored while being defended,",,,
+1706,Ratchet Rockers,Rapid React 1,1643480861215,Red1,1,,Heartland Regional,Tarmac 1,False,0,0,0,0,0,0,0,0,0,0,0,0,False,[],False,[],[],,False,,,,,
+1763,Paseliens,Rapid React 1,1643479344017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1763,Paseliens,Rapid React 2,1643480996859,Blue3,3,1763,Heartland Regional,Tarmac 1,True,0,0,0,0,0,1,0,2,0,1,0,1,True,[],False,[],[21804],4,True,Auto cmnt,Comment t,End cmnnt,Com drv,Com bot
+1827,THE HIVE,Rapid React 1,1643484885656,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1987,Broncobots,Rapid React 1,1643480157794,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1987,Broncobots,Rapid React 2,1643480687749,Red1,,,Heartland Regional,Tarmac 1,False,0,0,0,0,0,0,0,0,0,0,0,0,False,[],False,[],[],,False,,,,,
+1987,Broncobots,Rapid React 3,1643480862799,Blue3,1,1987,Heartland Regional,Tarmac 1,False,2,0,0,0,0,0,4,0,1,0,0,0,False,[],False,[],[14855],6,False,Test,Test,Test,Test,Test
+3172,HorsePOWER,Rapid React 1,1643485423073,Blue3,3,3172,Heartland Regional,Tarmac 2,False,0,0,0,1,0,0,0,0,0,1,0,1,True,[39635],False,[],[],0,False,,,,Sluggish,
+4329,Lutheran Roboteers,Rapid React 1,1643482271750,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4329,Lutheran Roboteers,Rapid React 2,1643485404578,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4522,Team SCREAM,Rapid React 1,1643484958898,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4522,Team SCREAM,Rapid React 2,1643485618961,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4766,Team SCREAM Jr.,Rapid React 1,1643485273252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4766,Team SCREAM Jr.,Rapid React 2,1643485632146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5013,Trobots,Rapid React 1,1643480262084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5013,Trobots,Rapid React 2,1643480267780,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5013,Trobots,Rapid React 3,1643480972008,Red2,1,5013,Heartland Regional,Tarmac 2,True,2,0,0,0,0,0,4,0,0,0,1,0,False,[],True,[],[10574],10,False,"Very good auto, programmers are very cool",Good,Climbed fast,Almost as good as auto,Interesting climber
+5013,Trobots,Rapid React 5,1643485605955,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5126,Electromagnetic Panthers (E.M.P.),Rapid React 1,1643484889413,Blue3,2,5126,Heartland Regional,Tarmac 2,True,1,0,0,0,1,0,1,0,1,0,1,0,True,[30200],False,[],[10515],0,True,,Most bots could get away,"Climber detached mid air, substantial damage caused",,
+5147,Hornets,Rapid React 1,1643756335526,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6391,Ursuline Bearbotics,Rapid React 1,1643480638017,,,Red1,Heartland Regional,Tarmac 1,False,0,0,0,0,0,0,0,0,0,0,0,0,False,[],False,[],[],,False,,,,,
+6391,Ursuline Bearbotics,Rapid React 2,1643484889367,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

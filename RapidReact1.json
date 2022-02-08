@@ -1,0 +1,4450 @@
+{
+  "teams": {
+    "935": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643481035129,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue3",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "1",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "935",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 1,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": true,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [
+              9202
+            ],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "0",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Slow with actions",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 2",
+        "timestamp": 1643485408633,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Red1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "3",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "935",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 2,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [
+              10509
+            ],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              13659
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "10",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Climber can go farther but was blocked",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 2",
+        "timestamp": 1643485613156,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue3",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "4",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "935",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 1,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 3,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": true,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [
+              19978
+            ],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              20811
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "4",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Scored while being defended,",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "1706": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643480861215,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Red1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "1",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": null,
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": false,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": null,
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "1763": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643479344017,
+        "metrics": {
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "1",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": false,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 2,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 2,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 3,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 2,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 1,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 1,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 3,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [
+              1082,
+              1733,
+              1187
+            ],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [
+              1180
+            ],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              5414,
+              1351,
+              1410,
+              969,
+              1345
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "15",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": "Test",
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 2",
+        "timestamp": 1643480996859,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue3",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "3",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "1763",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 1,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": true,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              21804
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "4",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": true,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": "Auto cmnt",
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Comment t",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": "End cmnnt",
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Com drv",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": "Com bot",
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "1827": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643484885656,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Red2",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "2",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "1827",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": false,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "0",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "1987": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643480157794,
+        "metrics": {
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": null,
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": false,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": null,
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 2",
+        "timestamp": 1643480687749,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Red1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": null,
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": null,
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": false,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": null,
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 3",
+        "timestamp": 1643480862799,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue3",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "1",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "1987",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": false,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 2,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 4,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              14855
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "6",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": "Test",
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Test",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": "Test",
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Test",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": "Test",
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "3172": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643485423073,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue3",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "3",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "3172",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": false,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 1,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": true,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [
+              39635
+            ],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "0",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Sluggish",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "4329": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643482271750,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "1",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "4329",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 3,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 1,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 6,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [
+              6971,
+              3186
+            ],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [
+              5986,
+              2804
+            ],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              16261
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "10",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": "4 ball auto",
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Couple misses from being defended ",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 2",
+        "timestamp": 1643485404578,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Red1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "3",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "4329",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 2,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 1,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 6,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [
+              5756
+            ],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [
+              14322
+            ],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              15896
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "10",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": true,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": "Aaa",
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Ttt",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": "Eee",
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Ddd",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": "Rrr",
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "4522": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643484958898,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Red1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "2",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "4522",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 3,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 1,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 1,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 9,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [
+              30407
+            ],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              47242
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "15",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": "Aa",
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Tt",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": "Ee",
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Dd",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": "Rr",
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 2",
+        "timestamp": 1643485618961,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Red1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "4",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "4522",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 3,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 7,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 4,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [
+              38387
+            ],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              13058
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "10",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": "Aaaa",
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Tttt",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": "We  we. Ee",
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Driver word xs space . \nLine\nAnother",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": "Rrrr",
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "4766": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643485273252,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "3",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "4766",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 1,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 1,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 4,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [
+              2735,
+              9668
+            ],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [
+              1852,
+              4630
+            ],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              16058
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "10",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 2",
+        "timestamp": 1643485632146,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "4",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "4766",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 2,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 3,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [
+              4906,
+              3866
+            ],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [
+              3453,
+              4652
+            ],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              19792
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "10",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "5013": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643480262084,
+        "metrics": {
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "1",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": false,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": null,
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 2",
+        "timestamp": 1643480267780,
+        "metrics": {
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": null,
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": false,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": null,
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 3",
+        "timestamp": 1643480972008,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Red2",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "1",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "5013",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 2,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 4,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": true,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              10574
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "10",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": "Very good auto, programmers are very cool",
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Good",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": "Climbed fast",
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Almost as good as auto",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": "Interesting climber",
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 5",
+        "timestamp": 1643485605955,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Red1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "4",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "5013",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 2,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 3,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [
+              4500
+            ],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              11627
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "10",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Driver knocked a enemy bot and made them miss",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "5126": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643484889413,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue3",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "2",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "5126",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 1,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 1,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": true,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [
+              30200
+            ],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              10515
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "0",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": true,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Most bots could get away",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": "Climber detached mid air, substantial damage caused",
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "5147": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643756335526,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue3",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "2",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "5147",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 2",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 2,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 3,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 2,
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "0",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": "Test",
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Test",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": "Could've climbed but was blocked by 5126",
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Test",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": "It go zoom",
+            "category": "Post Game"
+          }
+        }
+      }
+    ],
+    "6391": [
+      {
+        "name": "Rapid React 1",
+        "timestamp": 1643480638017,
+        "metrics": {
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": null,
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": null,
+            "category": null
+          },
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Red1",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": false,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "ct9MztssWtPZbHwPVBje": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "1xtqM7ev0rHLhNtiu2GX": {
+            "type": "number",
+            "name": "Lower Hub Bounced",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "mifMCOVr1xeJAaVUyDW4": {
+            "type": "boolean",
+            "name": "Played Defense",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "Ry4i24zXYJ5UkDOi8hSE": {
+            "type": "boolean",
+            "name": "Got Defended",
+            "value": false,
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": null,
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": null,
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": null,
+            "category": "Post Game"
+          }
+        }
+      },
+      {
+        "name": "Rapid React 2",
+        "timestamp": 1643484889367,
+        "metrics": {
+          "dOf3PCyXernVrDmcqcJh": {
+            "type": "list",
+            "name": "Device",
+            "value": "Blue1",
+            "category": null
+          },
+          "8Z0QlRjQUgrhkFuzwS0k": {
+            "type": "text",
+            "name": "Match Number",
+            "value": "2",
+            "category": null
+          },
+          "EqIjWIaxmCmvRvah702M": {
+            "type": "text",
+            "name": "Team #",
+            "value": "6391",
+            "category": null
+          },
+          "VCMJdHjeDgkLpLiB9ExK": {
+            "type": "text",
+            "name": "Event Name",
+            "value": "Heartland Regional",
+            "category": null
+          },
+          "s9fHfSUie5EZJVGa4BrC": {
+            "type": "list",
+            "name": "Starting Position",
+            "value": "Tarmac 1",
+            "category": "Auto"
+          },
+          "dFvaIkw1PmUhegxgDFUW": {
+            "type": "boolean",
+            "name": "Successful move from line",
+            "value": true,
+            "category": "Auto"
+          },
+          "FQs0KpEoCXvvo0BdWkjn": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 3,
+            "category": "Auto"
+          },
+          "utA6Ohb0vjAIt2KXQGbp": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "dPkTYWlZoTRauopiaAuk": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 0,
+            "category": "Auto"
+          },
+          "p8xoJby0xFdnTpGgzxn5": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "Auto"
+          },
+          "amMqiWjld4uF40Tyo41z": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "Auto"
+          },
+          "j9DzdcJQqTAY13qsoGEu": {
+            "type": "number",
+            "name": "Upper Hub Successful",
+            "value": 4,
+            "category": "TeleOp"
+          },
+          "euvApePkeV288vDKxABD": {
+            "type": "number",
+            "name": "Upper Hub Missed",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "t3TIcDtBRHxb6MXwtK5y": {
+            "type": "number",
+            "name": "Upper Hub Bounced",
+            "value": 1,
+            "category": "TeleOp"
+          },
+          "iuDGY5zgQ2FWxByNSYfn": {
+            "type": "number",
+            "name": "Lower Hub Successful",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "TubZjGeRcHRWLX4TLzRa": {
+            "type": "number",
+            "name": "Lower Hub Missed",
+            "value": 0,
+            "category": "TeleOp"
+          },
+          "3NtaQZsT0MHxauqAETkw": {
+            "type": "stopwatch",
+            "name": "Time Defending",
+            "value": [
+              3158
+            ],
+            "category": "TeleOp"
+          },
+          "33hA6O4ixBVIrejFuLP3": {
+            "type": "stopwatch",
+            "name": "Time Being Defended ",
+            "value": [
+              4976
+            ],
+            "category": "TeleOp"
+          },
+          "84H9OayAjF6BxPJ4abEo": {
+            "type": "stopwatch",
+            "name": "Time Spent Climbing",
+            "value": [
+              8555
+            ],
+            "category": "TeleOp"
+          },
+          "PfPb3R19v1XjeHvMQ0Gr": {
+            "type": "list",
+            "name": "Endgame hang",
+            "value": "10",
+            "category": "TeleOp"
+          },
+          "6jIvDpLBi3Snse3n5Vqd": {
+            "type": "boolean",
+            "name": "Robot Broke",
+            "value": false,
+            "category": "Post Game"
+          },
+          "YowVEGYK0zj6MRnOJpIk": {
+            "type": "text",
+            "name": "Notes (Auto)",
+            "value": "Hdjdjfkfnfm",
+            "category": "Post Game"
+          },
+          "wBRDRdgukOAjT18CSJ5B": {
+            "type": "text",
+            "name": "Notes (TeleOp)",
+            "value": "Nskdocmsksmms",
+            "category": "Post Game"
+          },
+          "cJy7hyPNKrnOht5ANL8o": {
+            "type": "text",
+            "name": "Notes (Endgame)",
+            "value": "Jdkdkckdmsms",
+            "category": "Post Game"
+          },
+          "73Th2w4q0rSQzxksvDTr": {
+            "type": "text",
+            "name": "Notes (Driver)",
+            "value": "Mmkclcksmms",
+            "category": "Post Game"
+          },
+          "BnAd0AYJe9Koz7sMbfaV": {
+            "type": "text",
+            "name": "Notes (Robot)",
+            "value": "Mdkckkskskxoc",
+            "category": "Post Game"
+          }
+        }
+      }
+    ]
+  }
+}

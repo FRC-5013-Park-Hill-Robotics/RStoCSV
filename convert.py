@@ -75,7 +75,9 @@ num_metrics = num_metrics + 3 + (1 if args.timestamp else 0)
 data = np.zeros((num_scouts, num_metrics), dtype='O')
 
 # List of all metrics scouted
-headers = [i['name'] for i in json_data['teams'][list(json_data['teams'].keys())[0]][0]['metrics'].values()]
+
+headers = [str(i['category'] or '') + i['name'] for i in json_data['teams'][list(json_data['teams'].keys())[0]][0]['metrics'].values()]
+    
 # Add team number and name of scout to the CSV . Add timestamp header, if needed
 headers.insert(0, "Timestamp") if args.timestamp else None
 headers.insert(0, "Name of Scout")
